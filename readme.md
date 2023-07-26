@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/09Engineering-670x375%402x.gif">
 
 
-- Current Projects [Chess PvP](https://github.com/sahilsingh2002/Chess-Project)
+- Current Projects [Zeldersouls](https://github.com/sahilsingh2002/ZelderSouls)
 
 - 🌱 I’m currently learning **DSA in C++, C#, Unity**
 
