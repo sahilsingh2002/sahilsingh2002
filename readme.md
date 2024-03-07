@@ -1,3 +1,5 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsingh2002&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 [![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)]()
 <h1 align="center">Hi, I'm Sahil</h1>
 <h3 align="center">A student of Punjab Engineering College</h3>
